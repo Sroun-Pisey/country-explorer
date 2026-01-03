@@ -60,20 +60,6 @@ ng serve
 ```
 5. Open your browser: http://localhost:4200
 
-country-explorer/
-│
-├─ src/
-│   ├─ app/
-│   │   ├─ app.component.ts
-│   │   ├─ app.html
-│   │   └─ app.css
-│   └─ assets/
-│
-├─ angular.json
-├─ package.json
-└─ README.md
-
-
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
