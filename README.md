@@ -40,6 +40,7 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 
 ```bash
 git clone https://github.com/Sroun-Pisey/country-explorer.git
+```
 
 2. Navigate to project folder
 
